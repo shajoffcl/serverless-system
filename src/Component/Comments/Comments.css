@@ -1,0 +1,25 @@
+#comments {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.post-btn {
+  margin: 1px solid #eee;
+  cursor: pointer;
+  background: #eee;
+  border-radius: 5px;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.text-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text {
+  padding: 5px;
+}
